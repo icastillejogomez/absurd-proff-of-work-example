@@ -10,7 +10,6 @@ console.time('steps')
 while (!found) {
     // Inc step counter
     i++
-    console.log(i)
 
     // Generate text with uuid
     const text = uuidv4();
