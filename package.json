@@ -1,0 +1,24 @@
+{
+  "name": "absurd-proff-of-work-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/icastillejogomez/absurd-proff-of-work-example.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/icastillejogomez/absurd-proff-of-work-example/issues"
+  },
+  "homepage": "https://github.com/icastillejogomez/absurd-proff-of-work-example#readme",
+  "dependencies": {
+    "uuid": "^8.3.2"
+  }
+}
